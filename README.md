@@ -11,7 +11,7 @@ The project aims to perform the following tasks:
 3. **Data Loading**: Load transformed data into Google BigQuery tables.
 4. **Orchestration**: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
-![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/755818fe-1cd3-4e1c-827d-35b963d6f414)
+![image](https://github.com/Hanes-smart/Secure-Employee-Data-Pipeline-with-Masking-and-BigQuery-Analytics-GCP-/blob/main/pic1.jpeg)
 
 ## Architecture
 
