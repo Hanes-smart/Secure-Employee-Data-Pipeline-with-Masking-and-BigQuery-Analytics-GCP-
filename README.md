@@ -15,5 +15,5 @@ The project aims to perform the following tasks:
 
 ## Architecture
 
-![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/0ea51bdb-99cc-4abf-8ccc-8be721462fc3)
+![image](https://github.com/Hanes-smart/Secure-Employee-Data-Pipeline-with-Masking-and-BigQuery-Analytics-GCP-/blob/main/pic2.jpeg)
 
