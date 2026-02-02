@@ -1,0 +1,1 @@
+To design and implement a secure data pipeline that extracts employee data from multiple sources, masks sensitive information, loads it into Google BigQuery, and visualizes insights through interactive dashboards.
